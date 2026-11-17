@@ -1,4 +1,4 @@
-> 📣 **Telegram 频道群组推荐**：[关注 @tgtuijian](https://t.me/tgtuijian)<br>
+> 📣 **Telegram 频道群组推荐**：[关注 @xingtiandijituan](https://t.me/xingtiandijituan)<br>
 > 持续发现值得加入的频道与群组，附推荐理由、内容方向和活跃情况。
 
 <a id="section-channel"></a>
@@ -9,59 +9,59 @@
 
 | 名称 | 链接 | 人数 | 简介 |
 | --- | --- | ---: | --- |
-| 风向旗参考快讯 | [@xhqcankao](https://t.me/xhqcankao) | 174,681 | 风闻奏事，遍查访知。 |
-| 电报时报 | [@times001](https://t.me/times001) | 84,551 | 投稿点频道左下角对话图标。 |
-| 华尔街见闻 - 财经时讯 AI 实时互动 | [@FinanceNewsDaily](https://t.me/FinanceNewsDaily) | 59,443 | 中国领先的金融信息平台。 |
-| Solidot | [@solidot](https://t.me/solidot) | 48,872 | solidot.org 非官方。 |
-| zaobao.sg 早报 | [@zaobaosg](https://t.me/zaobaosg) | 46,518 | 以睿智亲和的内容。 |
-| 外滩读书会-最新报纸、杂志、财经报告及流行电子书分享 | [@readingclubus](https://t.me/readingclubus) | 28,717 | 以英文为主的报纸，杂志。 |
-| cnBeta.COM中文业界资讯站 | [@cnbeta_com](https://t.me/cnbeta_com) | 27,404 | cnBeta.COM中文业界资。 |
-| 𝚂𝚙𝚎𝚎𝚍𝙲𝚎𝚗𝚝𝚛𝚎 | [@speedcentre](https://t.me/speedcentre) | 25,287 | 二手机场交易 欢迎各位关注。 |
-| 华尔街日报 RSS | [@wsj_rss](https://t.me/wsj_rss) | 17,482 | RSS 地址： RSS 频道收。 |
-| ChatGPT / AI新闻聚合 | [@AI_News_CN](https://t.me/AI_News_CN) | 23,405 | 主流AI服务状态页通知。 |
-| 云上报刊亭 精选 🅥 -- 新闻，报纸，杂志，电子书，资料 PDF | [@magazinesclubnew](https://t.me/magazinesclubnew) | 18,661 | 新闻，报纸，杂志，电子书。 |
-| 荔枝木 | [@lychee_wood](https://t.me/lychee_wood) | 17,832 | 这个世界很复杂。 |
-| 知乎日报 全文 实时推送 | [@zhihuribao_rss](https://t.me/zhihuribao_rss) | 16,723 | 知乎日报 纽约时报 BBC中文。 |
-| 吴说区块链 新闻与深度 | [@wublock](https://t.me/wublock) | 15,667 | 吴说：接近真相。 |
-| Steam快讯 | [@steamsteam](https://t.me/steamsteam) | 15,294 | Telegram 资源入口。 |
-| 看新闻 学英语 双语新闻 | [@shuangyunews_rss](https://t.me/shuangyunews_rss) | 15,776 | 知乎日报 纽约时报 BBC中文。 |
-| 科技爱好者周刊 | [@scitech_fans](https://t.me/scitech_fans) | 14,889 | 记录每周值得分享的科技内容。 |
-| RSSHub News | [@awesomeRSSHub](https://t.me/awesomeRSSHub) | 12,111 | Everything is R。 |
-| 乌鸦观察 | [@bigcrowdev](https://t.me/bigcrowdev) | 10,718 | 不定期推送新闻和杂谈。 |
-| 经济信息联播 | [@eco_cn](https://t.me/eco_cn) | 11,940 | 独立，个性的财经，金融资讯早报。 |
-| TestFlight News | [@testflights](https://t.me/testflights) | 11,080 | 收集分享IOS的TestFli。 |
-| ALL About RSS | [@aboutrss](https://t.me/aboutrss) | 9,449 | 关于 #RSS 技术的 #应用。 |
-| 竹新资料库 | [@kt_database](https://t.me/kt_database) | 9,043 | 分享新闻资料。 |
-| 层叠 - The Cascading | [@outvivid](https://t.me/outvivid) | 9,325 | 主要话题大概是开源业界新闻。 |
-| 突发新闻 | [@breakingnews_t](https://t.me/breakingnews_t) | 8,589 | 突发新闻推送服务（简体中文）。 |
-| Readhub | [@readhub_cn](https://t.me/readhub_cn) | 8,587 | 每天三分钟的科技新闻聚合阅读。 |
-| 财经快讯 | [@fnnew](https://t.me/fnnew) | 8,672 | 最新最全全球财经资讯24小时不。 |
-| 日本 共同网 朝日新闻 日经中文网 | [@jp_rss](https://t.me/jp_rss) | 7,737 | 知乎日报 纽约时报 BBC中文。 |
-| NS新闻转报 | [@SwitchNewCN](https://t.me/SwitchNewCN) | 7,443 | 官方信息请看。 |
+| 风向旗参考快讯 | [@xigangpinpai](https://t.me/xigangpinpai) | 174,681 | 风闻奏事，遍查访知。 |
+| 电报时报 | [@dbdh00](https://t.me/dbdh00) | 84,551 | 投稿点频道左下角对话图标。 |
+| 华尔街见闻 - 财经时讯 AI 实时互动 | [@qqlm7](https://t.me/qqlm7) | 59,443 | 中国领先的金融信息平台。 |
+| Solidot | [@wsdkpay](https://t.me/wsdkpay) | 48,872 | solidot.org 非官方。 |
+| zaobao.sg 早报 | [@dhbgq](https://t.me/dhbgq) | 46,518 | 以睿智亲和的内容。 |
+| 外滩读书会-最新报纸、杂志、财经报告及流行电子书分享 | [@khbd66](https://t.me/khbd66) | 28,717 | 以英文为主的报纸，杂志。 |
+| cnBeta.COM中文业界资讯站 | [@hwdb508](https://t.me/hwdb508) | 27,404 | cnBeta.COM中文业界资。 |
+| 𝚂𝚙𝚎𝚎𝚍𝙲𝚎𝚗𝚝𝚛𝚎 | [@jmdb99](https://t.me/jmdb99) | 25,287 | 二手机场交易 欢迎各位关注。 |
+| 华尔街日报 RSS | [@hwhwaaaaaa](https://t.me/hwhwaaaaaa) | 17,482 | RSS 地址： RSS 频道收。 |
+| ChatGPT / AI新闻聚合 | [@kk8kkoo](https://t.me/kk8kkoo) | 23,405 | 主流AI服务状态页通知。 |
+| 云上报刊亭 精选 🅥 -- 新闻，报纸，杂志，电子书，资料 PDF | [@dnydh5](https://t.me/dnydh5) | 18,661 | 新闻，报纸，杂志，电子书。 |
+| 荔枝木 | [@gfspq](https://t.me/gfspq) | 17,832 | 这个世界很复杂。 |
+| 知乎日报 全文 实时推送 | [@mdav55](https://t.me/mdav55) | 16,723 | 知乎日报 纽约时报 BBC中文。 |
+| 吴说区块链 新闻与深度 | [@xgylec](https://t.me/xgylec) | 15,667 | 吴说：接近真相。 |
+| Steam快讯 | [@hzylc](https://t.me/hzylc) | 15,294 | Telegram 资源入口。 |
+| 看新闻 学英语 双语新闻 | [@wg_to](https://t.me/wg_ton) | 15,776 | 知乎日报 纽约时报 BBC中文。 |
+| 科技爱好者周刊 | [@madou137](https://t.me/madou137) | 14,889 | 记录每周值得分享的科技内容。 |
+| RSSHub News | [@xgylcc](https://t.me/xgylcc) | 12,111 | Everything is R。 |
+| 乌鸦观察 | [@kkdbo](https://t.me/kkdbo) | 10,718 | 不定期推送新闻和杂谈。 |
+| 经济信息联播 | [@kfzx4](https://t.me/kfzx4) | 11,940 | 独立，个性的财经，金融资讯早报。 |
+| TestFlight News | [@DNYDYYL](https://t.me/DNYDYYL) | 11,080 | 收集分享IOS的TestFli。 |
+| ALL About RSS | [@agpgwg](https://t.me/agpgwg) | 9,449 | 关于 #RSS 技术的 #应用。 |
+| 竹新资料库 | [@bcgjdl](https://t.me/bcgjdl) | 9,043 | 分享新闻资料。 |
+| 层叠 - The Cascading | [@iddb18](https://t.me/iddb18) | 9,325 | 主要话题大概是开源业界新闻。 |
+| 突发新闻 | [@okdb55](https://t.me/okdb55) | 8,589 | 突发新闻推送服务（简体中文）。 |
+| Readhub | [@madou578](https://t.me/madou578) | 8,587 | 每天三分钟的科技新闻聚合阅读。 |
+| 财经快讯 | [@gxdh1](https://t.me/gxdh1) | 8,672 | 最新最全全球财经资讯24小时不。 |
+| 日本 共同网 朝日新闻 日经中文网 | [@zhcnn88](https://t.me/zhcnn88) | 7,737 | 知乎日报 纽约时报 BBC中文。 |
+| NS新闻转报 | [@dbdh8](https://t.me/dbdh8) | 7,443 | 官方信息请看。 |
 | Free網絡信息自由門 （纯事件为主的翻墙free公益网友闲极无聊自媒体） | [@todayfreedom](https://t.me/todayfreedom) | 6,729 | 網絡信息自由門 纯事件报道。 |
-| 小林家的托尔 | [@TooruchanNews](https://t.me/TooruchanNews) | 6,650 | 非资讯向的个人自媒体。 |
-| RSS 频道收集 | [@rss_channels](https://t.me/rss_channels) | 6,578 | 收集推送 RSS 的频道。 |
-| Yuan的记事本 分享 软件 新闻 Yuan's Notepad | [@Yuan_En](https://t.me/Yuan_En) | 6,333 | 整理搬运一些奇奇怪怪有趣的事～。 |
-| 金十数据 闪电资讯 | [@jin10news](https://t.me/jin10news) | 5,459 | 实时推送 7x24小时股市闪电。 |
-| 乙烷日报 | [@OverDaily](https://t.me/OverDaily) | 5,112 | 读者群 本频道文字内容以CC。 |
-| 经济学人(英文) RSS | [@economist_rss](https://t.me/economist_rss) | 12 | RSS 地址： 感谢原RSS链。 |
-| 新闻实验室 | [@newslab2020](https://t.me/newslab2020) | 4,664 | 新闻实验室的频道 >>> 会员。 |
-| 韩国 中央日报 朝鲜日报 | [@korea_rss](https://t.me/korea_rss) | 4,418 | 知乎日报 纽约时报 BBC中文。 |
-| &'a ::rynco::UntitledChannel | [@rynif](https://t.me/rynif) | 4,547 | 西郊林密无处去，北城雾沉晚风凉。 |
-| 7x24投资快讯 | [@golden_wind_news](https://t.me/golden_wind_news) | 4,820 | 24 小时投资相关的快讯。 |
-| Python潮流周刊 | [@pythontrendingweekly](https://t.me/pythontrendingweekly) | 4,581 | 由豌豆花下猫主理。 |
-| 币圈快讯 | [@btcnewsdaily](https://t.me/btcnewsdaily) | 5,073 | 币圈快讯，掌握币圈动态。 |
-| 一起偷偷观察 DIYgod | [@awesomeDIYgod](https://t.me/awesomeDIYgod) | 4,087 | 频道由 RSSHub 强力驱动。 |
-| 0x Meme/项目/空投 | [@newsforbitcoin](https://t.me/newsforbitcoin) | 3,561 | 定期发送Web3 空投/项目/。 |
-| The Sociologist | [@thesoc](https://t.me/thesoc) | 3,485 | On ne parle tan。 |
-| 币圈日报 | [@bidaily](https://t.me/bidaily) | 3,526 | 币圈日报-每日最前沿的币圈新闻。 |
-| Matters 閲讀精選 | [@MattersHub](https://t.me/MattersHub) | 3,259 | Matters.news 一個。 |
-| DecoHack-独立产品周刊 | [@decohack](https://t.me/decohack) | 2,199 | 每周推荐好玩有趣的产品，APP。 |
-| OurBits RSS频道 | [@OurBits_RSS](https://t.me/OurBits_RSS) | 1,858 | OurBits 官种发布提醒。 |
-| 开发者日报 | [@cndevdaily](https://t.me/cndevdaily) | 2,067 | 一个勤劳的机器人，只爬取热门。 |
-| 快讯猎手（重要版） | [@zhongyaokuaixun](https://t.me/zhongyaokuaixun) | 1,690 | 「快讯猎手 重要版」 币猎手机。 |
-| 大咕咕咕鸡 | [@dagudu](https://t.me/dagudu) | 1,776 | 大咕咕咕鸡，微博知名博主。 |
-| 财联社 | [@cailianshe](https://t.me/cailianshe) | 1,745 | 财联社 7*24小时不间断提供。 |
+| 小林家的托尔 | [@pgyl55](https://t.me/pgyl55) | 6,650 | 非资讯向的个人自媒体。 |
+| RSS 频道收集 | [@xtdddddd](https://t.me/xtdddddd) | 6,578 | 收集推送 RSS 的频道。 |
+| Yuan的记事本 分享 软件 新闻 Yuan's Notepad | [@k99pd](https://t.me/k99pd) | 6,333 | 整理搬运一些奇奇怪怪有趣的事～。 |
+| 金十数据 闪电资讯 | [@pgyxi](https://t.me/pgyxi) | 5,459 | 实时推送 7x24小时股市闪电。 |
+| 乙烷日报 | [@ks_hg_jt](https://t.me/ks_hg_jt) | 5,112 | 读者群 本频道文字内容以CC。 |
+| 经济学人(英文) RSS | [@MDFLQ](https://t.me/MDFLQ) | 12 | RSS 地址： 感谢原RSS链。 |
+| 新闻实验室 | [@mdzbo](https://t.me/mdzbo) | 4,664 | 新闻实验室的频道 >>> 会员。 |
+| 韩国 中央日报 朝鲜日报 | [@hwtddb](https://t.me/hwtddb) | 4,418 | 知乎日报 纽约时报 BBC中文。 |
+| &'a ::rynco::UntitledChannel | [@ppaadd](https://t.me/ppaadd) | 4,547 | 西郊林密无处去，北城雾沉晚风凉。 |
+| 7x24投资快讯 | [@bcdbyl](https://t.me/bcdbyl) | 4,820 | 24 小时投资相关的快讯。 |
+| Python潮流周刊 | [@tdbcdb](https://t.me/tdbcdb) | 4,581 | 由豌豆花下猫主理。 |
+| 币圈快讯 | [@jtylc](https://t.me/jtylc) | 5,073 | 币圈快讯，掌握币圈动态。 |
+| 一起偷偷观察 DIYgod | [@bcdb00](https://t.me/bcdb00) | 4,087 | 频道由 RSSHub 强力驱动。 |
+| 0x Meme/项目/空投 | [@hbnnyx](https://t.me/hbnnyx) | 3,561 | 定期发送Web3 空投/项目/。 |
+| The Sociologist | [@agpgwg](https://t.me/agpgwg) | 3,485 | On ne parle tan。 |
+| 币圈日报 | [@bcjtdb](https://t.me/bcjtdb) | 3,526 | 币圈日报-每日最前沿的币圈新闻。 |
+| Matters 閲讀精選 | [@dny_xg](https://t.me/dny_xg) | 3,259 | Matters.news 一個。 |
+| DecoHack-独立产品周刊 | [@hhjde](https://t.me/hhjde) | 2,199 | 每周推荐好玩有趣的产品，APP。 |
+| OurBits RSS频道 | [@tz_hg](https://t.me/tz_hg) | 1,858 | OurBits 官种发布提醒。 |
+| 开发者日报 | [@dhylc_bot](https://t.me/dhylc_bot) | 2,067 | 一个勤劳的机器人，只爬取热门。 |
+| 快讯猎手（重要版） | [@mdspfl](https://t.me/mdspfl) | 1,690 | 「快讯猎手 重要版」 币猎手机。 |
+| 大咕咕咕鸡 | [@sousou_w](https://t.me/sousou_w) | 1,776 | 大咕咕咕鸡，微博知名博主。 |
+| 财联社 | [@jinbaodanbao](https://t.me/jinbaodanbao) | 1,745 | 财联社 7*24小时不间断提供。 |
 | 逆风社 | [@nifengpress](https://t.me/nifengpress) | 1,667 | 逆风社是由认同自由民主价值的小。 |
 | 新闻派 | [@nnpai](https://t.me/nnpai) | 1,507 | Apple，Android。 |
 | 悦读「优质少量RSS聚合」 | [@dailyrss](https://t.me/dailyrss) | 1,722 | 文章，图片，视频，音乐。 |
